@@ -4,7 +4,6 @@ I'm Manmeet Singh. I Spend most of time coding outstanding projects.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Action speak more louder than words.
 - 🤔 I’m Developer.
 
 #### Top Technologies
