@@ -4,7 +4,7 @@ I'm Manmeet Singh. I Spend most of time coding outstanding projects.
 
 <!-- TODO: Add last video link -->
 
-- 🤔 I’m Developer.
+- 🤔 I’m Developer, Technologist, and a Leader.
 
 #### Top Technologies
 
