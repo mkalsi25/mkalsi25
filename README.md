@@ -4,7 +4,11 @@ I'm Manmeet Singh. I Spend most of time coding outstanding projects.
 
 <!-- TODO: Add last video link -->
 
-- 🤔 I’m Developer, Technologist, and a Leader.
+- Contributing thousands of projects 💫.
+- 100% Job Results.
+- Always Available ⚡️.
+- 🤔 Providing Top-Notch Quality knowledge to my clients.
+- 🤔 Top-Rated Developer, Engineer, and a Leader.
 
 #### Top Technologies
 
