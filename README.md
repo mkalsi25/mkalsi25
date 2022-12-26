@@ -30,3 +30,9 @@ I'm Manmeet Singh. I Spend most of time coding outstanding projects.
 <br />
 
 
+#### Favorite Software for Programming:
+[![vs Badge]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![vs Badge]([https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](#)
+
+
+
