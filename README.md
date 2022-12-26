@@ -10,7 +10,7 @@ I'm Manmeet Singh. I Spend most of time coding outstanding projects.
 - Providing Top-Notch Quality knowledge to my clients.
 - Top-Rated Developer, Engineer, and a Leader.
 
-#### Top Technologies
+#### My Most Used Tech Stack
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -26,6 +26,8 @@ I'm Manmeet Singh. I Spend most of time coding outstanding projects.
 [![RC Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![IONIC Badge](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](#)
+[![PRisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](#)
 
 <br />
 
