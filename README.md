@@ -10,7 +10,7 @@ I'm Manmeet Singh. I Spend most of time coding outstanding projects.
 - Providing Top-Notch Quality knowledge to my clients.
 - Top-Rated Developer, Engineer, and a Leader.
 
-#### My Most Used Tech Stack
+#### Language
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -32,9 +32,12 @@ I'm Manmeet Singh. I Spend most of time coding outstanding projects.
 <br />
 
 
-#### Favorite Software for Programming:
+#### Tools:
 
 [![VS Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 [![Code Badge](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](#)
 
-
+###📊 Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mkalsi25&show_icons=true&locale=en&count_private=true" alt="mkalsi25" width="424px"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkalsi25&show_icons=true&locale=en&layout=compact" alt="mkalsi25" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkalsi25&label=Profile Views&color=blue&style=for-the-badge" alt="mkalsi25" /> </p>
