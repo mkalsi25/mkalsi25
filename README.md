@@ -10,7 +10,7 @@ I'm Manmeet Singh. I spend most of time coding outstanding projects.
 - Providing Top-Notch Quality knowledge to my clients.
 - Top-Rated Developer, Engineer, and a Leader.
 
-#### Language
+#### Skills
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
