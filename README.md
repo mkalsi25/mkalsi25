@@ -37,5 +37,3 @@ I'm Manmeet Singh. I spend most of time coding outstanding projects.
 [![VS Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 [![Code Badge](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](#)
 
-#### 📊
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkalsi25&label=Profile Views&color=blue&style=for-the-badge" alt="mkalsi25" /> </p>
