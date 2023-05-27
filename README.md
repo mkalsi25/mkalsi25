@@ -1,4 +1,4 @@
-<img src="https://www.manmeet.dev/api/og/" alt="manmeet singh">
+<img src="https://www.manmeet.dev/api/og/" alt="manmeet singh" style="border-radius:13px;">
 
 
 #### Skills
