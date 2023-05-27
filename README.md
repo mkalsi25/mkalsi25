@@ -20,11 +20,6 @@
 [![IONIC Badge](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](#)
 [![PRisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](#)
 
-<br />
-
-
-#### Tools:
-
-[![VS Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
-[![Code Badge](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](#)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkalsi25&show_icons=true&bg_color=B73E3E&text_color=EDDBC0&hide_border=true&icon_color=fff&title_color=fff&include_all_commits=true&count_private=true" />
+</p>
