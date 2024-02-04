@@ -1,2 +1,2 @@
-[![Manmeet Singh](https://www.manmeet.dev/api/og/)](https://www.manmeet.dev)
+[![Manmeet Singh](https://www.manmeet.dev/meta-og.png/)](https://www.manmeet.dev)
 
